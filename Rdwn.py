@@ -129,8 +129,8 @@ print """
 """
 
 
-CorrectUsername = "RB"
-CorrectPassword = "AHMAD"
+CorrectUsername = "rdwn"
+CorrectPassword = "rdwn"
 
 loop = 'true'
 while (loop == 'true'):
